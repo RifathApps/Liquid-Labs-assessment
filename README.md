@@ -65,3 +65,7 @@ sqlcmd -S <server_name> -d <database_name> -i database/schema.sql
 
 dotnet run --project Api/WebApiDemo.Api.csproj
 
+Demo :
+![image](https://github.com/user-attachments/assets/401cad4a-6ea0-466c-ade9-bddaeefd2078)
+
+
