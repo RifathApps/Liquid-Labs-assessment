@@ -2,7 +2,6 @@
 
 This project is an ASP.NET Core Web API that fetches country data from the public [REST Countries API](https://restcountries.com/), 
 stores it in a Microsoft SQL Server database, and exposes RESTful endpoints to retrieve the stored data.
----
 
 ## Features
 - Fetches country data from a third-party API (REST Countries).
