@@ -1,6 +1,3 @@
-# Liquid-Labs-assessment
-
-# Countries API
 ## Overview
 
 This project is an ASP.NET Core Web API that fetches country data from the public [REST Countries API](https://restcountries.com/), 
